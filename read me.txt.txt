@@ -1,0 +1,36 @@
+=== Xbox Live Avatar ===
+Contributors: williampatton
+Donate link:
+Tags: Xbox, 360, Live, Avatar,
+Requires at least: 2.0.2
+Tested up to: 2..9.1
+Stable tag: 0.9
+
+Simple Plug-in to show off your Xbox Live Avatar.
+
+== Description ==
+
+Simple Plug-in to show your Xbox Live Avatar on your wordpress blog's sidebar :D
+
+== Installation ==
+Upload the entire contents of the "Xbox Live Avatar"folder to /wp-content/plugins/ and activate it though your dashboard.
+Then Add it to your sidebar as a widget and your good to go XD
+
+== Frequently Asked Questions ==
+
+= My Avatar displays slightly below where I expect it. Why? =
+
+This happens because your Avatar has a transparrent background which is large enough to accomodate the tallest of Avatars.
+I will hopefully provide built-in correction for this in 1.0. Failing that I will add an option for user correction in the plug-in's options.
+
+
+== Changelog ==
+
+= 0.9 =
+* Widgetized and working
+
+= 0.2 =
+* Allows output of custom avatar (via provided gamertag)
+
+= 0.1 =
+* Actually allowed output of hardcoded avatar.
